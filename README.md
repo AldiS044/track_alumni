@@ -6,7 +6,6 @@ Sistem pelacakan alumni berbasis pseudocode multi-platform.
 
 ```
 https://trackalumni--alsaputra0912.replit.app
-
 ```
 
 ## Cara Menjalankan
